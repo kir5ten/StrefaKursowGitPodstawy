@@ -1,2 +1,2 @@
 # StrefaKursowGitPodstawy
-Nauka podtsaw GIT
+Nauka podstaw GIT
